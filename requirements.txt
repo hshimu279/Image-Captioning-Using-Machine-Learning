@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+sentencepiece
+Pillow
+pyttsx3
+trycourier
+
+streamlit_login_auth_ui
+gtts
+playsound
