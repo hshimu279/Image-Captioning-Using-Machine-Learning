@@ -1,0 +1,37 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Database / user data / upload folders (sensitive or large)
+users_data
+*.db
+*.sqlite3
+uploads/
+
+# Large media (audio/images) - optionally ignore if you don't want to push them
+*.mp3
+*.wav
+*.mp4
+
+# Python packaging/build folders
+build/
+dist/
+*.egg-info/
